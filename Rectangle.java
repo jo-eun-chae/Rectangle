@@ -7,7 +7,7 @@
  */
 public class Rectangle
 {
-    // instance variables - replace the example below with your own
+    // Rectangle 객체의 너비와 높이
     private int width;
     private int height;
 
@@ -21,7 +21,7 @@ public class Rectangle
     }
 
     /**
-     * An example of a method - replace this comment with your own
+     * 두 Rectangle 객체의 면적이 같은지 판단하는 메소드
      *
      * @param  obj  Rectangle 클래스의 객체
      * @return    treue or false

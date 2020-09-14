@@ -9,7 +9,7 @@ public class MyApp
 {
     public static void main(String[] args){
         Rectangle r = new Rectangle(10, 20);
-        Rectangle r2 = new Rectangle(10,20);
+        Rectangle r2 = new Rectangle(10,10);
         
         
         System.out.println(r.equals(r2));
